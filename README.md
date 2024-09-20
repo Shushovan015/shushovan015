@@ -116,4 +116,14 @@
     />
   </a>
 </p>
+
+### Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
+
+| Projects | Deployed Link | Repository | Tech Stack & Tools |
+|:---------|:-------------:|:----------:|:-------------------|
+| Web Scrapping | [view]() | - | `Next.JS` `Tailwind` `Mongo DB` `Mongo DB` `Cheerio` | 
+| Foam3D | [view](https://www.fm24api.com/) | - | `Vanilla JS` `CSS` `HTML5` `Three JS` | 
+| Open Data Portal | [view](https://changu-stag.naxa.com.np) | - | `JavaScript` `React` `Redux` `D3` `Openlayers` `Postman` `SCSS`| 
+
+<br>
 <p><img align="left" alt="varun2948's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shushovan015&show_icons=true&hide_border=true" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shushovan015&show_icons=true&locale=en&layout=compact" alt="shushovan015" /></p>
