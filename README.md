@@ -121,7 +121,7 @@
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
-| Web Scrapping | [view]() | - | `Next.JS` `Tailwind` `Mongo DB` `Mongo DB` `Cheerio` | 
+| Web Scrapping | [view]() | - | `Next.JS` `Typescript` `Tailwind` `Mongo DB` `Cheerio` | 
 | Foam3D | [view](https://www.fm24api.com/) | - | `Vanilla JS` `CSS` `HTML5` `Three JS` | 
 | Open Data Portal | [view](https://changu-stag.naxa.com.np) | - | `JavaScript` `React` `Redux` `D3` `Openlayers` `Postman` `SCSS`| 
 
