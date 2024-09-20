@@ -23,8 +23,8 @@
 <a href="https://linkedin.com/in/shushovan-shakya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shushovan-shakya" height="30" width="40" /></a>
 <a href="https://instagram.com/shushovan.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shushovan.s" height="30" width="40" /></a>
 </p>
-
-### Tech Stack:
+<hr>
+<h3>Tech Stack:</h3>
 <div align='center'><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"/> <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"/> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></div>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -116,8 +116,8 @@
     />
   </a>
 </p>
-
-### Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
+<hr>
+<h3>Projects</h3>
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
@@ -126,4 +126,5 @@
 | Open Data Portal | [view](https://changu-stag.naxa.com.np) | - | `JavaScript` `React` `Redux` `D3` `Openlayers` `Postman` `SCSS`| 
 
 <br>
-<p><img align="left" alt="varun2948's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shushovan015&show_icons=true&hide_border=true" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shushovan015&show_icons=true&locale=en&layout=compact" alt="shushovan015" /></p>
+<hr>
+<p><img align="left" alt="shushovan015's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shushovan015&show_icons=true&hide_border=true" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shushovan015&show_icons=true&locale=en&layout=compact" alt="shushovan015" /></p>
