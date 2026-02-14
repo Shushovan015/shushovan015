@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://your-portfolio-link.com](https://shushovan-shakya.vercel.app/)">
+  <a href="https://shushovan-shakya.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=flat-square&logo=vercel">
   </a>
   <a href="mailto:shushovan015@gmail.com">
