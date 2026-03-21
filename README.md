@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shushovan Shakya</h1>
-<h3 align="center">Frontend Developer | React • Next.js • TypeScript</h3>
+<h3 align="center">Frontend Engineer | React • Next.js • TypeScript</h3>
 
 <p align="center">
   Building modern, scalable and user-friendly web applications 🚀  
@@ -23,10 +23,10 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working at **MA-Industries**
-- 🌱 Learning **Next.js, TypeScript, Three.js**
-- 💬 Ask me about **React, UI Development, JavaScript**
-- ⚡ Passionate about clean design & performance-driven apps
+- 🔭 Web Developer at **MA-Industries**
+- 🌱 Working with **Next.js, TypeScript, Three.js**
+- 💬 Experienced in **React, UI Development, JavaScript**
+- ⚡ Focused on clean architecture and high-performance applications
 
 ---
 
