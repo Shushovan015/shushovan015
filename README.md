@@ -23,7 +23,6 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Web Developer at **MA-Industries**
 - 🌱 Working with **Next.js, TypeScript, Three.js**
 - 💬 Experienced in **React, UI Development, JavaScript**
 - ⚡ Focused on clean architecture and high-performance applications
