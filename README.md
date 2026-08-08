@@ -26,7 +26,7 @@
 <td width="43%" valign="middle">
 
 <img
-  src="https://raw.githubusercontent.com/shushovan015/shushovan015/output/ascii.svg"
+  src="./ascii.svg"
   width="100%"
   alt="ASCII portrait"
 />
