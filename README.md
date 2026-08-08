@@ -21,9 +21,12 @@
 
 <!-- ASCII + information -->
 
-<table>
+<!-- ASCII + information -->
+
+<table width="100%">
 <tr>
-<td width="43%" valign="middle">
+
+<td width="46%" align="center" valign="middle">
 
 <img
   src="./ascii.svg"
@@ -33,32 +36,41 @@
 
 </td>
 
-<td width="57%" valign="middle">
+<td width="54%" valign="middle">
 
-<h2>shushovan@github</h2>
+<h2>Shushovan Shakya</h2>
+
+<p><strong>Frontend Engineer · Berlin, Germany</strong></p>
+
+<p>
+I build performant, scalable frontend applications for complex,
+data-intensive products with a strong focus on usability and maintainability.
+</p>
 
 <pre>
-------------------------------
-
-Role      Frontend Engineer
-Location  Berlin, Germany
-
-Frontend
+Core
 ├── React
-├── Next.js
 ├── TypeScript
-└── Three.js
+├── Next.js
+└── JavaScript
 
-Tools
-├── Git
-├── Docker
-└── Node.js
-
-Status
-└── Building for the web 🚀
+Focus
+├── Frontend Architecture
+├── Performance Optimization
+├── REST API Integration
+└── Data & 3D Visualization
 </pre>
 
+<p>
+<a href="https://shushovanshakya.com.np/">Portfolio</a>
+&nbsp;•&nbsp;
+<a href="https://linkedin.com/in/shushovan-shakya">LinkedIn</a>
+&nbsp;•&nbsp;
+<a href="mailto:shushovan015@gmail.com">Email</a>
+</p>
+
 </td>
+
 </tr>
 </table>
 
