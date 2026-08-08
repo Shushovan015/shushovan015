@@ -1,103 +1,85 @@
-<h1>Hi 👋, I'm Shushovan Shakya</h1>
+<!-- Animated contribution graph -->
 
-<h3>Frontend Engineer</h3>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/shushovan015/shushovan015/output/contribution.svg"
+    width="100%"
+    alt="Contribution animation"
+  />
+</p>
+
+<br>
+
+<!-- ASCII + information -->
+
+<table>
+<tr>
+<td width="43%" valign="middle">
+
+<img
+  src="https://raw.githubusercontent.com/shushovan015/shushovan015/output/ascii.svg"
+  width="100%"
+  alt="ASCII portrait"
+/>
+
+</td>
+
+<td width="57%" valign="middle">
+
+<h2>shushovan@github</h2>
+
+<pre>
+------------------------------
+
+Role      Frontend Engineer
+Location  Berlin, Germany
+
+Frontend
+├── React
+├── Next.js
+├── TypeScript
+└── Three.js
+
+Tools
+├── Git
+├── Docker
+└── Node.js
+
+Status
+└── Building for the web 🚀
+</pre>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Selected Work
+
+| Project | What I built | Stack |
+|---|---|---|
+| **Foam3D** | Browser-based 3D engineering application | Three.js • JavaScript • CSS |
+| **Open Data Portal** | Interactive geospatial data platform | React • Redux • D3 • OpenLayers |
+| **Web Scraping App** | Full-stack web scraping application | Next.js • TypeScript • MongoDB |
+
+---
+
+### `shushovan015@github:~$ whoami`
+
+Frontend Engineer focused on building performant, scalable and
+user-friendly web applications.
 
 <p>
-React • Next.js • TypeScript
+  <a href="https://shushovanshakya.com.np/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-black?style=flat-square&logo=vercel">
+  </a>
+
+  <a href="mailto:shushovan015@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail">
+  </a>
+
+  <a href="https://linkedin.com/in/shushovan-shakya">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
+  </a>
 </p>
-
-<p>
-Building modern, scalable and user-friendly web applications 🚀
-</p>
-
-<p>
-<a href="https://shushovanshakya.com.np/">
-<img src="https://img.shields.io/badge/Portfolio-Website-black?style=flat-square&logo=vercel">
-</a>
-
-<a href="mailto:shushovan015@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail">
-</a>
-
-<a href="https://linkedin.com/in/shushovan-shakya">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
-</a>
-</p>
-
----
-
-<img align="right" width="380" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif"/>
-
-## 👨‍💻 About Me
-
-- 🌱 Working with **Next.js, TypeScript, Three.js**
-- 💬 Experienced in **React, UI Development, JavaScript**
-- ⚡ Focused on clean architecture and high-performance applications
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-
-<!-- Frontend -->
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
-
-<br/>
-
-<!-- Backend & Tools -->
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-</p>
-
-
----
-
-## 🚀 Featured Projects
-
-| Project | Live Demo | Tech Stack |
-|--------|----------|------------|
-| **Foam3D** | https://www.fm24api.com/ | Three.js • Vanilla JS • CSS |
-| **Open Data Portal** | https://changu-stag.naxa.com.np | React • Redux • D3 • OpenLayers |
-| **Web Scraping App** | Coming Soon | Next.js • TS • MongoDB • Cheerio |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shushovan015&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shushovan015&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shushovan015&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/shushovan-shakya">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://instagram.com/shushovan.s">
-<img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"/>
-</a>
-</p>
-
----
-
-⭐ *Thanks for visiting my profile — feel free to connect!*
