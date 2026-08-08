@@ -1,7 +1,7 @@
 <table>
 <tr>
 
-<td width="38%" valign="middle">
+<td width="35%" valign="middle">
 
 <pre>
                                                                                                                                                                                                                             
