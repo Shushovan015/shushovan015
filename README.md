@@ -26,7 +26,7 @@
 <table width="100%">
 <tr>
 
-<td width="46%" align="center" valign="middle">
+<td width="48%" align="center" valign="middle">
 
 <img
   src="./ascii.svg"
@@ -36,7 +36,7 @@
 
 </td>
 
-<td width="54%" valign="middle">
+<td width="52%" valign="middle">
 
 <h2>Shushovan Shakya</h2>
 
