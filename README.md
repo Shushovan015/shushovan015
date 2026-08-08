@@ -1,5 +1,10 @@
+<table>
+<tr>
+
+<td width="38%" valign="middle">
+
 <pre>
-                                                                                                                                                                                                                              
+                                                                                                                                                                                                                            
                                                                                                                                                                                                                             
                                                                                                                                                                                                                             
                                                                                                                                                                                                                             
@@ -112,24 +117,44 @@
 
 </pre>
 
-<h1 align="center">Hi 👋, I'm Shushovan Shakya</h1>
-<h3 align="center">Frontend Engineer | React • Next.js • TypeScript</h3>
+</td>
 
-<p align="center">
-  Building modern, scalable and user-friendly web applications 🚀  
+<td width="62%" valign="middle">
+
+<h1>Hi 👋, I'm Shushovan Shakya</h1>
+
+<h3>Frontend Engineer</h3>
+
+<p>
+React • Next.js • TypeScript
 </p>
 
-<p align="center">
+<p>
+Building modern, scalable and user-friendly web applications 🚀
+</p>
+
+<p>
   <a href="https://shushovanshakya.com.np/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=flat-square&logo=vercel">
   </a>
+</p>
+
+<p>
   <a href="mailto:shushovan015@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shushovan015@gmail.com-red?style=flat-square&logo=gmail">
-  </a>
-  <a href="https://linkedin.com/in/shushovan-shakya">
-    <img src="https://img.shields.io/badge/LinkedIn-Shushovan-blue?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail">
   </a>
 </p>
+
+<p>
+  <a href="https://linkedin.com/in/shushovan-shakya">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
+  </a>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
