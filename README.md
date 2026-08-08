@@ -1,7 +1,7 @@
 <table>
 <tr>
 
-<td width="35%" valign="middle">
+<td width="25%" valign="middle">
 
 <pre>
                                                                                                                                                                                                                             
@@ -119,7 +119,7 @@
 
 </td>
 
-<td width="62%" valign="middle">
+<td width="75%" valign="middle">
 
 <h1>Hi 👋, I'm Shushovan Shakya</h1>
 
