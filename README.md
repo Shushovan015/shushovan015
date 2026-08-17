@@ -82,7 +82,7 @@ Focus
 |---|---|---|
 | **Foam3D** | Browser-based 3D engineering application | Three.js • JavaScript • CSS |
 | **Open Data Portal** | Interactive geospatial data platform | React • Redux • D3 • OpenLayers |
-| **Web Scraping App** | Full-stack web scraping application | Next.js • TypeScript • MongoDB |
+| **Real Time visualizing Urban Crowding for Tourist** | Full-stack Visualization application | React JS • JavaScript • Redis + MongoDB • D3  |
 
 ---
 
